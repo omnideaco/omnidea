@@ -1,0 +1,12 @@
+[submodule "Omninet"]
+	path = Omninet
+	url = https://github.com/omnideaco/omninet.git
+[submodule "Ore"]
+	path = Ore
+	url = https://github.com/omnideaco/ore.git
+[submodule "Omny"]
+	path = Omny
+	url = https://github.com/omnideaco/omny.git
+[submodule "Covenant"]
+	path = Covenant
+	url = https://github.com/omnideaco/covenant.git
