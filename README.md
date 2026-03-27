@@ -2,6 +2,8 @@
 
 # Omnidea
 
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE.md) [![GitHub Stars](https://img.shields.io/github/stars/omnideaco/omnidea)](https://github.com/omnideaco/omnidea/stargazers) [![Governed by the Covenant](https://img.shields.io/badge/Governed_by-The_Covenant-gold.svg)](https://github.com/omnideaco/covenant)
+
 A sovereign internet. Own protocol. Own browser. Own identity, encryption, governance, and economics -- built from first principles, governed by a constitution.
 
 Omnidea is not a framework, a platform, or an app. It is a complete digital civilization: 26 building blocks (A through Z) that handle everything from identity to encryption to commerce to rendering. The protocol layer is finished. The browser is under active development. The constitution -- the Covenant -- is the supreme law that governs every line of code.
