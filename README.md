@@ -16,10 +16,10 @@ This repository wires together four submodules:
 
 | Submodule | What It Is | Language | Status |
 |-----------|-----------|----------|--------|
-| [Omninet](Omninet/) | The protocol. 29 Rust crates, 26 building blocks (A-Z), 6,619 tests. | Rust | Complete |
-| [Ore](Ore/) | The engine. Beryllium (Servo fork), Crystal (WebGPU glass), `@omnidea/net` SDK (860 ops), `@omnidea/ui` (40 Solid.js components), `@omnidea/editor` (CRDT). | Rust, TypeScript, WGSL | Active |
-| [Omny](Omny/) | The browser. Omnishell (window shell), omnidaemon (node service), omnidash (chrome), omnigrams (Solid.js programs). | Rust, TypeScript | Active |
-| [Covenant](Covenant/) | The constitution. 41 documents defining Dignity, Sovereignty, and Consent. | Prose | Ratified |
+| [Omninet](https://github.com/omnideaco/omninet) | The protocol. 29 Rust crates, 26 building blocks (A-Z), 6,619 tests. | Rust | Complete |
+| [Ore](https://github.com/omnideaco/ore) | The engine. Beryllium (Servo fork), Crystal (WebGPU glass), `@omnidea/net` SDK (859 ops), `@omnidea/ui` (40 Solid.js components), `@omnidea/editor` (CRDT). | Rust, TypeScript, WGSL | Active |
+| [Omny](https://github.com/omnideaco/omny) | The browser. Omnishell (window shell), omnidaemon (node service), omnidash (chrome), omnigrams (Solid.js programs). | Rust, TypeScript | Active |
+| [Covenant](https://github.com/omnideaco/covenant) | The constitution. 41 documents defining Dignity, Sovereignty, and Consent. | Prose | Ratified |
 
 ---
 
@@ -112,13 +112,13 @@ Every technical decision answers to three questions:
 2. **Does it honor Sovereignty?** -- The birthright to choose, refuse, and reshape.
 3. **Does it require Consent?** -- Voluntary, informed, continuous, and revocable.
 
-The Covenant is not a guideline. It is the supreme law. See [Covenant/](Covenant/) for the full constitutional framework.
+The Covenant is not a guideline. It is the supreme law. See the [Covenant](https://github.com/omnideaco/covenant) for the full constitutional framework.
 
 ---
 
 ## License
 
-AGPL-3.0, governed by the Covenant. See [Omninet/LICENSE.md](Omninet/LICENSE.md).
+AGPL-3.0, governed by the Covenant. See [LICENSE.md](https://github.com/omnideaco/omninet/blob/main/LICENSE.md).
 
 The code is maximally free. The one binding condition: alignment with Dignity, Sovereignty, and Consent. Use it to protect people and you have full freedom. Use it to harm them and you have no standing.
 
