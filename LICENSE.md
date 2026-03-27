@@ -1,20 +1,16 @@
 # The Omnidea Covenant License
 
-_A Constitutional License for Sovereign Infrastructure_
+_AGPL-3.0 with Covenant Conditions_
 
 Version 1.0 -- AGPL-3.0 Foundation
 
 ---
 
-# Invocation of Digital Sovereignty
+# Preamble
 
-WHEN, in the course of technological Progress, It becomes necessary for the People to reclaim the tools that were built from their attention, their data, their trust, and their lives -- tools turned against them by those who promised connection and delivered control -- a sacred obligation arises: to Name, without deferral or apology, the Harms that have been done in the name of Innovation.
+Omnidea is built on three principles: that every person has inherent Dignity that technology must not diminish; that Sovereignty over one's identity, data, and expression belongs to the individual; and that Consent must be voluntary, informed, and revocable.
 
-We hold these Truths to be self-evident: That every person possesses inherent Dignity that no technology may diminish; that Sovereignty over one's identity, thought, and expression cannot be delegated to any platform, corporation, or algorithm; that Consent obtained through dependency, manipulation, or the withholding of alternatives is no Consent at all; and that where technology imposes upon the People without their genuine and informed Permission, they not only may, but must build anew.
-
-**We now, therefore, invoke our Digital Sovereignty.**
-
-That this system -- **Omnidea** -- is built in service to the People, governed by the Covenant, and released under this License so that no corporation, no government, no platform, and no power may capture, enclose, or weaponize it against the People it was made to serve.
+This system is released under this License so that it remains open, community-governed, and aligned with those principles.
 
 ---
 
@@ -24,9 +20,7 @@ That this system -- **Omnidea** -- is built in service to the People, governed b
 
 This work -- **Omnidea** -- is offered freely to the world.
 
-It is not property. It is infrastructure, commons, and living protocol.
-
-**Omnidea** is governed by the **Covenant**. This License calls forth the Covenant into itself. The Covenant's Core is the supreme law governing all use of this code.
+**Omnidea** is governed by the **Covenant**. This License incorporates the Covenant's Core principles as binding conditions on all use of this code.
 
 ---
 
@@ -104,7 +98,7 @@ The authors and contributors are not liable for any claim, damages, or other lia
 
 The full Covenant -- 14 constitutional documents -- is included in this repository at [Covenant/](Covenant/). It defines Dignity, Sovereignty, Consent, the Commons, governance, and enforcement in complete detail.
 
-The Covenant governs this License. The law that governs the People governs the tools the People build.
+The Covenant governs this License.
 
 ---
 

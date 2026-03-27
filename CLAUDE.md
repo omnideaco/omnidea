@@ -8,7 +8,7 @@ This file provides context for AI assistants (Claude, etc.) working on the Omnid
 
 ## The Big Picture
 
-Omnidea is a sovereign internet -- a complete digital civilization with its own protocol, browser, rendering engine, identity system, encrypted storage, relay network, and economic system. It is governed by a constitution called the Covenant.
+Omnidea is a sovereign internet with its own protocol, browser, rendering engine, identity system, encrypted storage, relay network, and economic system. It is governed by a constitution called the Covenant.
 
 ### Three Repos, One System
 
@@ -107,15 +107,15 @@ cd Omny/omnigrams && npm run build             # Vite build (no test runner)
 
 ---
 
-## The Covenant Governs
+## The Covenant
 
-Every technical decision answers to three questions:
+Every technical decision answers to three principles:
 
-1. **Does it protect Dignity?** -- Worth that cannot be taken, traded, or measured.
-2. **Does it honor Sovereignty?** -- The birthright to choose, refuse, and reshape.
-3. **Does it require Consent?** -- Voluntary, informed, continuous, and revocable.
+1. **Dignity** -- worth that cannot be taken, traded, or measured.
+2. **Sovereignty** -- the right to choose, refuse, and reshape.
+3. **Consent** -- voluntary, informed, continuous, and revocable.
 
-The Covenant is not a guideline. It is the supreme law. See `Covenant/` for the full framework (14 documents).
+The Covenant is the project's governing framework. See `Covenant/` for the full text (14 documents).
 
 ---
 

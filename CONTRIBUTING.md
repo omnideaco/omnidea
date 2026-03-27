@@ -72,11 +72,11 @@ When submitting a PR:
 
 ---
 
-## The Covenant Governs
+## The Covenant
 
-Every contribution to Omnidea is subject to the Covenant. This means your code must uphold Dignity, Sovereignty, and Consent. Contributions that enable surveillance, extraction, enclosure, or manipulation will not be accepted.
+Every contribution to Omnidea is subject to the Covenant -- the project's governing framework. Your code must uphold Dignity, Sovereignty, and Consent. Contributions that enable surveillance, extraction, enclosure, or manipulation will not be accepted.
 
-Read the [Covenant](Covenant/) if you have not already. It is the supreme law of this project.
+Read the [Covenant](Covenant/) if you have not already.
 
 ---
 

@@ -10,7 +10,7 @@
 
 A sovereign internet. Own protocol. Own browser. Own identity, encryption, governance, and economics -- built from first principles, governed by a constitution.
 
-Omnidea is not a framework, a platform, or an app. It is a complete digital civilization: 26 building blocks (A through Z) that handle everything from identity to encryption to commerce to rendering. The protocol layer is finished. The browser is under active development. The constitution -- the Covenant -- is the supreme law that governs every line of code.
+Omnidea includes 26 building blocks (A through Z) that handle everything from identity to encryption to commerce to rendering. The protocol layer is finished. The browser is under active development. The Covenant is the project's governing framework.
 
 Think of it as building Chrome, the web, DNS, and payments from scratch -- then binding the whole thing to a bill of rights.
 
@@ -65,7 +65,7 @@ Omninet is the protocol. Ore is the engine. Omny is the browser. The Covenant go
 
 ## The ABCs
 
-26 building blocks. One per letter. Each is a fundamental piece of digital civilization.
+26 building blocks, one per letter.
 
 | | Name | Purpose |
 |---|---|---|
@@ -112,13 +112,13 @@ Omninet is the protocol. Ore is the engine. Omny is the browser. The Covenant go
 
 ## The Covenant
 
-Every technical decision answers to three questions:
+Every technical decision answers to three principles:
 
-1. **Does it protect Dignity?** -- Worth that cannot be taken, traded, or measured.
-2. **Does it honor Sovereignty?** -- The birthright to choose, refuse, and reshape.
-3. **Does it require Consent?** -- Voluntary, informed, continuous, and revocable.
+1. **Dignity** -- worth that cannot be taken, traded, or measured.
+2. **Sovereignty** -- the right to choose, refuse, and reshape.
+3. **Consent** -- voluntary, informed, continuous, and revocable.
 
-The Covenant is not a guideline. It is the supreme law. See the [Covenant](https://github.com/omnideaco/covenant) for the full constitutional framework.
+The Covenant is the project's governing framework. See the [Covenant](https://github.com/omnideaco/covenant) for the full text.
 
 ---
 
@@ -126,7 +126,7 @@ The Covenant is not a guideline. It is the supreme law. See the [Covenant](https
 
 AGPL-3.0, governed by the Covenant. See [LICENSE.md](https://github.com/omnideaco/omninet/blob/main/LICENSE.md).
 
-The code is maximally free. The one binding condition: alignment with Dignity, Sovereignty, and Consent. Use it to protect people and you have full freedom. Use it to harm them and you have no standing.
+The code is free to use, modify, and distribute. The one binding condition: alignment with Dignity, Sovereignty, and Consent.
 
 ---
 
