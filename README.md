@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.png" alt="Omnidea" width="600" />
+  <img src="assets/hero.png" alt="Omnidea" width="100%" />
 </p>
 
 > **[Omnidea](https://github.com/omnideaco/omnidea)** · For AI-assisted development, see [CLAUDE.md](CLAUDE.md).
