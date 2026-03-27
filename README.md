@@ -25,7 +25,7 @@ This repository wires together four submodules:
 | [Omninet](https://github.com/omnideaco/omninet) | The protocol. 29 Rust crates, 26 building blocks (A-Z), 6,619 tests. | Rust | Complete |
 | [Ore](https://github.com/omnideaco/ore) | The engine. Beryllium (Servo fork), Crystal (WebGPU glass), `@omnidea/net` SDK (859 ops), `@omnidea/ui` (40 Solid.js components), `@omnidea/editor` (CRDT). | Rust, TypeScript, WGSL | Active |
 | [Omny](https://github.com/omnideaco/omny) | The browser. Omnishell (window shell), omnidaemon (node service), omnidash (chrome), omnigrams (Solid.js programs). | Rust, TypeScript | Active |
-| [Covenant](https://github.com/omnideaco/covenant) | The constitution. 41 documents defining Dignity, Sovereignty, and Consent. | Prose | Ratified |
+| [Covenant](https://github.com/omnideaco/covenant) | The constitution. 14 documents defining Dignity, Sovereignty, and Consent. | Prose | Ratified |
 
 ---
 

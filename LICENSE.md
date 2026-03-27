@@ -102,7 +102,7 @@ The authors and contributors are not liable for any claim, damages, or other lia
 
 ## The Covenant
 
-The full Covenant -- 41 constitutional documents -- is included in this repository at [Covenant/](Covenant/). It defines Dignity, Sovereignty, Consent, the Commons, governance, and enforcement in complete detail.
+The full Covenant -- 14 constitutional documents -- is included in this repository at [Covenant/](Covenant/). It defines Dignity, Sovereignty, Consent, the Commons, governance, and enforcement in complete detail.
 
 The Covenant governs this License. The law that governs the People governs the tools the People build.
 

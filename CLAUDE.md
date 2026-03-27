@@ -115,7 +115,7 @@ Every technical decision answers to three questions:
 2. **Does it honor Sovereignty?** -- The birthright to choose, refuse, and reshape.
 3. **Does it require Consent?** -- Voluntary, informed, continuous, and revocable.
 
-The Covenant is not a guideline. It is the supreme law. See `Covenant/` for the full framework (41 documents).
+The Covenant is not a guideline. It is the supreme law. See `Covenant/` for the full framework (14 documents).
 
 ---
 
