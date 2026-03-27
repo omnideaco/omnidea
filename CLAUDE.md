@@ -123,10 +123,10 @@ The Covenant is not a guideline. It is the supreme law. See `Covenant/` for the 
 
 Each repo has its own CLAUDE.md with deeper architecture and patterns:
 
-- `Omninet/CLAUDE.md` -- protocol bible, crate map, build chain
-- `Omny/CLAUDE.md` -- browser architecture, shell, daemon, bridge, programs
-- `Ore/CLAUDE.md` -- engine overview, Beryllium, Crystal, SDK, UI
-- `WIRING.md` -- how features flow through all three repos
+- [Omninet/CLAUDE.md](https://github.com/omnideaco/omninet/blob/main/CLAUDE.md) -- protocol bible, crate map, build chain
+- [Omny/CLAUDE.md](https://github.com/omnideaco/omny/blob/main/CLAUDE.md) -- browser architecture, shell, daemon, bridge, programs
+- [Ore/CLAUDE.md](https://github.com/omnideaco/ore/blob/main/CLAUDE.md) -- engine overview, Beryllium, Crystal, SDK, UI
+- [WIRING.md](WIRING.md) -- how features flow through all three repos
 
 ---
 
@@ -145,20 +145,20 @@ Every CLAUDE.md in the tree. Read the ones relevant to your task.
 
 | File | When to Read |
 |------|-------------|
-| [Omninet/CLAUDE.md](Omninet/CLAUDE.md) | Working on any Rust crate, FFI, or protocol logic |
-| Omninet/{A-Z}/CLAUDE.md | Working on a specific crate (e.g., [Crown](Omninet/Crown/CLAUDE.md), [Vault](Omninet/Vault/CLAUDE.md), [Equipment](Omninet/Equipment/CLAUDE.md)) |
+| [Omninet/CLAUDE.md](https://github.com/omnideaco/omninet/blob/main/CLAUDE.md) | Working on any Rust crate, FFI, or protocol logic |
+| Omninet/{A-Z}/CLAUDE.md | Working on a specific crate (e.g., [Crown](https://github.com/omnideaco/omninet/blob/main/Crown/CLAUDE.md), [Vault](https://github.com/omnideaco/omninet/blob/main/Vault/CLAUDE.md), [Equipment](https://github.com/omnideaco/omninet/blob/main/Equipment/CLAUDE.md)) |
 
 ### Omny (Browser)
 
 | File | When to Read |
 |------|-------------|
-| [Omny/CLAUDE.md](Omny/CLAUDE.md) | Browser architecture, daemon IPC, shell lifecycle |
-| [Omny/omnigrams/CLAUDE.md](Omny/omnigrams/CLAUDE.md) | Solid.js + UnoCSS frontend programs |
+| [Omny/CLAUDE.md](https://github.com/omnideaco/omny/blob/main/CLAUDE.md) | Browser architecture, daemon IPC, shell lifecycle |
+| [Omny/omnigrams/CLAUDE.md](https://github.com/omnideaco/omnigrams/blob/main/CLAUDE.md) | Solid.js + UnoCSS frontend programs |
 
 ### Ore (Engine + Libraries)
 
 | File | When to Read |
 |------|-------------|
-| [Ore/CLAUDE.md](Ore/CLAUDE.md) | Engine overview, package layout, build commands |
-| [Ore/crystal/CLAUDE.md](Ore/crystal/CLAUDE.md) | WebGPU glass effects, shaders, SDF |
-| [Ore/beryllium/CLAUDE.md](Ore/beryllium/CLAUDE.md) | Servo fork modifications, prefs, WebIDL bridge |
+| [Ore/CLAUDE.md](https://github.com/omnideaco/ore/blob/main/CLAUDE.md) | Engine overview, package layout, build commands |
+| [Ore/crystal/CLAUDE.md](https://github.com/omnideaco/crystal/blob/main/CLAUDE.md) | WebGPU glass effects, shaders, SDF |
+| [Ore/beryllium/CLAUDE.md](https://github.com/omnideaco/beryllium/blob/main/CLAUDE.md) | Servo fork modifications, prefs, WebIDL bridge |
