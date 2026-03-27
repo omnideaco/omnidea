@@ -146,7 +146,7 @@ Every CLAUDE.md in the tree. Read the ones relevant to your task.
 | File | When to Read |
 |------|-------------|
 | [Omninet/CLAUDE.md](Omninet/CLAUDE.md) | Working on any Rust crate, FFI, or protocol logic |
-| Omninet/{A-Z}/CLAUDE.md | Working on a specific crate (e.g., [Crown](Omninet/C/CLAUDE.md), [Vault](Omninet/V/CLAUDE.md), [Equipment](Omninet/E/CLAUDE.md)) |
+| Omninet/{A-Z}/CLAUDE.md | Working on a specific crate (e.g., [Crown](Omninet/Crown/CLAUDE.md), [Vault](Omninet/Vault/CLAUDE.md), [Equipment](Omninet/Equipment/CLAUDE.md)) |
 
 ### Omny (Browser)
 
